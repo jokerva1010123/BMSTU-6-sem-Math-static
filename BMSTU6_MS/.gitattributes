@@ -1,0 +1,3 @@
+*.tex linguist-documentation
+lab_01/report/*.tex linguist-documentation
+lab_02/report/*.tex linguist-documentation
